@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app-portfolio/static/css/main.dbf86b7d.css",
-    "main.js": "/react-app-portfolio/static/js/main.fa8945e1.js",
+    "main.js": "/react-app-portfolio/static/js/main.b6ee5a21.js",
     "static/css/355.97c43620.chunk.css": "/react-app-portfolio/static/css/355.97c43620.chunk.css",
     "static/js/355.e8433f12.chunk.js": "/react-app-portfolio/static/js/355.e8433f12.chunk.js",
     "static/css/481.115dc9a2.chunk.css": "/react-app-portfolio/static/css/481.115dc9a2.chunk.css",
@@ -36,7 +36,7 @@
     "static/media/gmail.png": "/react-app-portfolio/static/media/gmail.4bdf6627e0898a3a2961.png",
     "index.html": "/react-app-portfolio/index.html",
     "main.dbf86b7d.css.map": "/react-app-portfolio/static/css/main.dbf86b7d.css.map",
-    "main.fa8945e1.js.map": "/react-app-portfolio/static/js/main.fa8945e1.js.map",
+    "main.b6ee5a21.js.map": "/react-app-portfolio/static/js/main.b6ee5a21.js.map",
     "355.97c43620.chunk.css.map": "/react-app-portfolio/static/css/355.97c43620.chunk.css.map",
     "355.e8433f12.chunk.js.map": "/react-app-portfolio/static/js/355.e8433f12.chunk.js.map",
     "481.115dc9a2.chunk.css.map": "/react-app-portfolio/static/css/481.115dc9a2.chunk.css.map",
@@ -67,6 +67,6 @@
   },
   "entrypoints": [
     "static/css/main.dbf86b7d.css",
-    "static/js/main.fa8945e1.js"
+    "static/js/main.b6ee5a21.js"
   ]
 }
