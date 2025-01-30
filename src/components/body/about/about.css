@@ -1,0 +1,54 @@
+.light {
+  --title-color: #0077ff;
+  --text-color: #000;
+}
+
+.dark {
+    --title-color: #0077ff;
+    --text-color: #fff;
+}
+
+.about {
+  padding-bottom: 40px;
+  color: var(--text-color)
+}
+.about-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.images {
+  height: 200px;
+}
+
+.about-info {
+  font-size: 24px;
+}
+
+.info-name {
+  color: var(--title-color);
+  font-weight: 700;
+  font-size: 32px;
+}
+
+@media only screen and (max-width: 720px) {
+  .about-top {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .images {
+    height: 100px;
+    width: 100px;
+  }
+
+  .about-info {
+    font-size: 20px;
+  }
+
+  .info-name {
+    font-size: 26px;
+  }
+}
