@@ -1,0 +1,2 @@
+.light{--text-color:#000}.dark{--text-color:#fff}.skills{display:flex;flex-direction:column;width:100%}.section-title{color:#07f}.skills-section{display:flex;justify-content:space-between;margin:12px 0}.skills-section-title{color:var(--text-color);font-size:24px;font-weight:500}.skills-list{display:flex;flex-wrap:wrap;justify-content:flex-end;max-width:70%}@media only screen and (max-width:720px){.skills-list{justify-content:center;max-width:100%}.skills-section{align-items:center;flex-direction:column}}
+/*# sourceMappingURL=430.c095bb50.chunk.css.map*/

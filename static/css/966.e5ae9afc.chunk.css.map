@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/966.e5ae9afc.chunk.css","mappings":"AAAA,SACI,YAAa,CAEb,QAAO,CADP,qBAEJ","sources":["components/body/projects/projects.css"],"sourcesContent":[".project{\n    display: flex;\n    flex-direction: column;\n    flex: 1;\n}\n"],"names":[],"sourceRoot":""}

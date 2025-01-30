@@ -1,0 +1,2 @@
+.header{align-items:center;justify-content:space-between;padding:12px;position:relative}.header,.menu{display:flex;flex:1 1}.menu{justify-content:flex-end}.menu-icon{font-size:24px}.mobile-menu{display:none}.logo,.web-menu{display:flex}.logo{color:#07f;font-size:36px;font-weight:900}@media only screen and (max-width:720px){.mobile-menu{display:flex}.web-menu{display:none}.logo{font-size:24px}}
+/*# sourceMappingURL=555.0da868f4.chunk.css.map*/

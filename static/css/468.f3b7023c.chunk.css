@@ -1,0 +1,2 @@
+.light{--title-color:#07f;--text-color:#000}.dark{--title-color:#07f;--text-color:#fff}.about{color:var(--text-color);padding-bottom:40px}.about-top{align-items:center;display:flex;justify-content:space-between}.images{height:200px}.about-info{font-size:24px}.info-name{color:var(--title-color);font-size:32px;font-weight:700}@media only screen and (max-width:720px){.about-top{align-items:center;flex-direction:column;justify-content:center}.images{height:100px;width:100px}.about-info{font-size:20px}.info-name{font-size:26px}}
+/*# sourceMappingURL=468.f3b7023c.chunk.css.map*/
